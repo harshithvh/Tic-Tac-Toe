@@ -31,3 +31,16 @@ Min-Max is an algorithm that is used in decision making and game theory.
 It is generally used in two-player games, in which one player will try to maximise the score, and the other will try to minimize the score.
 Min-Max algorithm is optimal if a player plays optimally. The solution is guaranteed if exist. 
 The player will receive a reward if the game reached an end state. 
+
+<img align="left" alt="Visual Studio Code" width="820px" src="https://github.com/harshithvh/Tic-Tac-Toe/blob/main/images/img-2.png" />
+
+The concept of minimizing player and maximizing player. 
+
+<img align="left" alt="Visual Studio Code" width="820px" src="https://github.com/harshithvh/Tic-Tac-Toe/blob/main/images/img-3.png" />
+
+The min-max algorithm will take two parameters:
+
+>Current Game State
+>Next player type (Maximizing/Minimizing)
+and will return the best possible move for the player.
+
