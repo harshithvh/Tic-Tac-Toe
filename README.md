@@ -1,7 +1,7 @@
 # Tic-Tac-Toe
 Implementation of AI bot for a two-player game 
 
-<img align="left" alt="Visual Studio Code" width="820px" src="https://github.com/harshithvh/GoogleMaps-shortest-route/blob/main/img/img-1.jpg" />
+<img align="left" alt="Visual Studio Code" width="820px" src="https://github.com/harshithvh/Tic-Tac-Toe/blob/main/images/img-1.jpg" />
 
 # Description
 
@@ -22,3 +22,12 @@ Moves will be artificial but will lack intelligence thus the game will not be en
 2. Finding Probability of Winning, Losing, and Draw with all possible moves
 
 In this, we use data. the bot will play games in simulation and calculate the number of wins, losses and draw matches and will perform the move with more win% or draw%.
+
+# Min-Max Algorithm
+
+---
+
+Min-Max is an algorithm that is used in decision making and game theory.
+It is generally used in two-player games, in which one player will try to maximise the score, and the other will try to minimize the score.
+Min-Max algorithm is optimal if a player plays optimally. The solution is guaranteed if exist. 
+The player will receive a reward if the game reached an end state. 
