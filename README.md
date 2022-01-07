@@ -39,9 +39,9 @@ The concept of minimizing player and maximizing player.
 <img align="left" alt="Visual Studio Code" width="820px" src="https://github.com/harshithvh/Tic-Tac-Toe/blob/main/images/img-3.png" />
 
 The min-max algorithm will take two parameters:
-
 1. Current Game State
 2. Next player type (Maximizing/Minimizing)
+
 and will return the best possible move for the player.
 
 <img align="left" alt="Visual Studio Code" width="820px" src="https://github.com/harshithvh/Tic-Tac-Toe/blob/main/images/img-4.png" />
