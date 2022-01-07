@@ -1,7 +1,7 @@
 # Tic-Tac-Toe
 Implementation of AI bot for a two-player game 
 
-<img align="left" alt="Visual Studio Code" width="820px" height="720px" src="https://github.com/harshithvh/Tic-Tac-Toe/blob/main/images/img-1.jpg" />
+<img align="left" alt="Visual Studio Code" width="820px" height="520px" src="https://github.com/harshithvh/Tic-Tac-Toe/blob/main/images/img-1.jpg" />
 
 # Description
 
